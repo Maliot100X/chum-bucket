@@ -1,0 +1,1 @@
+{"cleanUrls": true, "routes": [{"src": "/memes/(.*)", "dest": "/memes/$1"}]}
